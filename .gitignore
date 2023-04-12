@@ -1,0 +1,5 @@
+.venv
+venv
+imagens
+db.sqlite3
+.env
